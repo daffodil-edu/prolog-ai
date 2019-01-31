@@ -1,3 +1,3 @@
 # prolog-ai
 
-* [online ditor](https://swish.swi-prolog.org/)
+* [online editor](https://swish.swi-prolog.org/)
